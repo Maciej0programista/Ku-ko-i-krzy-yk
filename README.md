@@ -28,7 +28,7 @@ Witamy! Przedstawiamy klasyczną grę strategiczne Kółko i Krzyżyk, teraz dos
 
 ## Instalacja (Rozpakowywanie):
 
-1. **Pobierz archiwum:** Pobierz plik archiwum z grą (np. `kukokrzyzyk.zip`).
+1. **Pobierz archiwum:** Pobierz plik archiwum z grą (.zip).
 2. **Rozpakuj archiwum:** Rozpakuj zawartość archiwum do wybranego folderu.  **Ważne:** Upewnij się, że wszystkie pliki są rozpakowane do tego samego folderu.
 3. **Uruchom grę:**  Znajdź plik wykonywalny (np. `kukokrzyzyk.exe`) w rozpakowanym folderze i uruchom go.
 
